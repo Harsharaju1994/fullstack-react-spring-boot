@@ -1,0 +1,12 @@
+
+
+
+
+
+
+frontend-UI
+
+npm create vite@latest .
+npm i react-router-dom --save
+npm i bootstrap --save
+npm i axios --save
